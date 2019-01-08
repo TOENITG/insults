@@ -11,7 +11,7 @@ Programmet här ovanför är just nu ganska så långt, onödigt långt. Läs f�
 * Skapa ett projekt i NetBeans, låt det heta ``InsultGenerator``.
 * Skapa en klass som heter ``InsultZero``och kopiera in koden ovan. Ändra det som behövs så att programmet går att köra och testa det.
 
-* Första uppgiften är att skriva om programmet så att det stället för tre switch-case använder tra arrays för varje del och sedan, med hjälp av ```Math.Random()```slumpar tre ord, ett ur varje array, slår ihop detta och skriver ut på konsollen. Klassen ska heta ``InsultOne``.
+* Första uppgiften är att skriva om programmet så att det stället för tre switch-case använder tra arrays för varje del och sedan, med hjälp av ```Math.Random()```slumpar tre ord, ett ur varje array, slår ihop detta och skriver ut på konsollen. Klassen ska heta ``InsultOne``. Här finns en bra genomgång av klassen Array och hur det fungerar: ``https://www.homeandlearn.co.uk/java/java_arrays.html```.
 * Andra uppgiften är att göra om första uppgiften och använda lämplig dialogruta för utskriften. Kolla på https://www.homeandlearn.co.uk/java/java_option_panes.html för hur de fungerar. Klassen ska heta ``InsultTwo``.
 * Tredje uppgiften är ren överkurs, eftersom jag inte har talat om hur ni ska lösa det än:
 ** Programmet ska kunna startas från kommandoraden med en parameter som är ett heltal. Programmet ska sedan skriva ut lika många förolämpningar som parametern.
