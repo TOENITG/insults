@@ -1,0 +1,2 @@
+# insults
+Shakespeare insult generators.
